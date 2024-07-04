@@ -1,12 +1,11 @@
-## Hi there 👋
+![banner](https://raw.githubusercontent.com/JLST-SM-MSM8974/.github/main/profile/banner.png)
+# Juleast's SM MSM8974 Project
+Hi, I'm Juleast.
 
-<!--
+This is a collection of device trees that I work on for the Galaxy Note 3. The intent is to centralize and maintain these trees in one place. Most of these trees are alredy complete and may not need further work.  
+Do note that I am no expert and have only taken existing trees to adapt to certain required changes.
 
-**Here are some ideas to get you started:**
+For building, check out the [local manifest](https://github.com/JLST-SM-MSM8974/local_manifests).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+PRs are welcome!  
+Thanks for stopping by.
